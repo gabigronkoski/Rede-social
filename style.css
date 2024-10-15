@@ -39,8 +39,10 @@ nav a{
 nav a-houver{
     text-decoration: underline;
     transform: scale(0.90);
-    transition: transform 0.15;
+    transition: scale(0.90);
+    transition: transform 0.1s;
 }
+
 footer{
     display: flex;
     align-items: center;
